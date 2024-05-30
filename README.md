@@ -1,0 +1,2 @@
+# car-price-pridiction-using-machine-learning-python
+This code predicts car prices using a dataset. It loads data, explores it (visualizing price distribution, checking missing values), engineers features (calculating car age, encoding categorical variables), splits data into training/testing sets, trains  Random Forest and Gradient Boosting models, and plots feature importances for Random Forest.
